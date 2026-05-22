@@ -1,0 +1,7 @@
+D:\Landing\ExamSystem\Backend\ExamSystem.Backend\obj\Debug\net9.0\ExamSystem.Backend.csproj.AssemblyReference.cache
+D:\Landing\ExamSystem\Backend\ExamSystem.Backend\obj\Debug\net9.0\ExamSystem.Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Landing\ExamSystem\Backend\ExamSystem.Backend\obj\Debug\net9.0\ExamSystem.Backend.AssemblyInfoInputs.cache
+D:\Landing\ExamSystem\Backend\ExamSystem.Backend\obj\Debug\net9.0\ExamSystem.Backend.AssemblyInfo.cs
+D:\Landing\ExamSystem\Backend\ExamSystem.Backend\obj\Debug\net9.0\ExamSystem.Backend.csproj.CoreCompileInputs.cache
+D:\Landing\ExamSystem\Backend\ExamSystem.Backend\obj\Debug\net9.0\ExamSystem.Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Landing\ExamSystem\Backend\ExamSystem.Backend\obj\Debug\net9.0\ExamSystem.Backend.MvcApplicationPartsAssemblyInfo.cache
